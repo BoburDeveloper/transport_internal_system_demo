@@ -1,0 +1,1 @@
+[{"id":4,"name_uz":"Dispetcher","name_oz":"Dispetcher","name":"dispatcher"},{"id":1,"name_uz":"Texosmotr","name_oz":"Texosmotr","name":"technical"},{"id":3,"name_uz":"Direktor","name_oz":"Direktor","name":"director"},{"id":2,"name_uz":"Medosmotr","name_oz":"Medosmotr","name":"medical"}]
